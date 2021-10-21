@@ -1,0 +1,10 @@
+{
+  "cucumberautocomplete.steps": ["steps/*.java"],
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "cucumberautocomplete.syncfeatures": "test.feature",
+  "editor.quickSuggestions": {
+    "comments": false,
+    "strings": true,
+    "other": true
+  }
+}
